@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**rojan-tiwari/rojan-tiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hi, I’m Rojan
 
-Here are some ideas to get you started:
+I'm a freelance full-stack developer with 5+ years of experience building scalable web apps using:
+- 💻 Java (Spring Boot, Hibernate)
+- 🧩 Angular
+- 🔌 REST APIs & WebSocket
+- ⚙️ Docker, GitHub Actions, CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 Featured Projects
+
+- 🧠 [Real-Time Chat App](link) – Angular + Spring Boot + WebSocket
+- 🛒 [E-commerce Backend](link) – REST APIs, MySQL, JWT Auth
+- 📦 [Billing System](link) – Invoice generation and management
+- ✍️ [Blog Platform](link) – CRUD + Auth + search
+- 📊 [Dashboard Analytics](link) – Charts, filters, responsive UI
+
+📫 Contact: [your email] | [LinkedIn] | [Portfolio]
+
