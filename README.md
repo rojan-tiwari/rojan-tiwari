@@ -36,11 +36,13 @@ A complete hospital backend + frontend system for managing appointments, doctors
 
 ---
 
-### 📈 Education ERP – [XUNO Nepal](https://nepal.xuno.co)
-Worked on core modules of a school ERP platform used across multiple institutions.
-- Developed student attendance, timetable, grading, and reporting features
-- Enhanced performance, implemented new UI in Angular
-- Closely collaborated with QA and PMs to deliver new features on time
+### 💸 Cross-Border Fintech Platform – XUNO Nepal
+Worked on a cross-border remittance platform enabling users in the USA to send money seamlessly to Nepal.
+
+- Built and enhanced features related to KYC verification, wallet management, and transaction history
+- Integrated third-party payment APIs and ensured secure, compliant money transfers
+- Developed responsive Angular interfaces for agents and customers and java
+- Collaborated with QA and product teams to deliver high-impact features in fast sprints
 
 ---
 
