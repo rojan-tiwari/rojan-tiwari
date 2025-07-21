@@ -2,7 +2,7 @@
 
 🎯 I'm a **Full-Stack Developer** with **5+ years of professional experience** building robust, scalable, and real-time applications for industries like healthcare, education, and finance.
 
- Currently working at **Cotiviti** | Previously contributed to **[XUNO (Nepal)](https://nepal.xuno.co)** for 2+ years
+ Currently working at **[Cotiviti (Nepal)](https://www.cotiviti.com.np)** | Previously contributed to **[XUNO (Nepal)](https://nepal.xuno.co)** for 2+ years
 
 🚀 I specialize in:
 -  Java (Spring Boot, Hibernate, Spring Security, JPA)
