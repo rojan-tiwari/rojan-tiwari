@@ -24,7 +24,7 @@ A fully functional real-time messaging app using Angular and Spring Boot with We
 - Auth system with role-based access
 - Typing indicator, online/offline status
 - Clean UI with Angular Material  
-👉 [View Project](#)
+👉 [View Project](#https://github.com/rojan-tiwari/chat-application)
 
 ---
 
