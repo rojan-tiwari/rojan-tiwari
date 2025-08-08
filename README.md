@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Rojan Tiwari
 
-🎯 I'm a **Full-Stack Developer** with **5+ years of professional experience** building robust, scalable, and real-time applications for industries like healthcare, education, and finance.
+ I'm a **Full-Stack Developer** with **5+ years of professional experience** building robust, scalable, and real-time applications for industries like healthcare, education, and finance.
 
  Currently working at **[Cotiviti (Nepal)](https://www.cotiviti.com.np)** | Previously contributed to **[XUNO (Nepal)](https://nepal.xuno.co)** for 2+ years
 
-🚀 I specialize in:
+ I specialize in:
 -  Java (Spring Boot, Hibernate, Spring Security, JPA)
 -  Angular (RxJS, Component Architecture, State Management)
 -  REST APIs, WebSocket (STOMP)
@@ -17,9 +17,9 @@
 
 ---
 
-## 🔥 Featured Projects
+##  Featured Projects
 
-### 💬 Real-Time Chat App
+###  Real-Time Chat App
 A fully functional real-time messaging app using Angular and Spring Boot with WebSocket + STOMP.
 - Auth system with role-based access
 - Typing indicator, online/offline status
@@ -28,7 +28,7 @@ A fully functional real-time messaging app using Angular and Spring Boot with We
 
 ---
 
-### 🏥 Advanced Hospital Management System
+###  Advanced Hospital Management System
 A complete hospital backend + frontend system for managing appointments, doctors, patients, inventory and reports.
 - Role-based dashboard (Admin/Doctor/Nurse/Receptionist)
 - Patient history, report uploads, and PDF exports  
@@ -36,7 +36,7 @@ A complete hospital backend + frontend system for managing appointments, doctors
 
 ---
 
-### 💸 Cross-Border Fintech Platform – XUNO Nepal
+### Cross-Border Fintech Platform – XUNO Nepal
 Worked on a cross-border remittance platform enabling users in the USA to send money seamlessly to Nepal.
 
 - Built and enhanced features related to KYC verification, wallet management, and transaction history
@@ -46,7 +46,7 @@ Worked on a cross-border remittance platform enabling users in the USA to send m
 
 ---
 
-## 💡 What I Offer
+##  What I Offer
 
 As a freelancer or team contributor, I focus on:
 - Clean, maintainable, and testable code
@@ -56,7 +56,7 @@ As a freelancer or team contributor, I focus on:
 
 ---
 
-📫 **Let’s Connect**  
+ **Let’s Connect**  
 - ✉️ Email: [coderojan001@gmail.com](mailto:coderojan001@gmail.com)  
 - 💼 LinkedIn: (https://www.linkedin.com/in/rojantiwari/)
 - 🌐 Portfolio: [rojantiwari.dev](#) 
