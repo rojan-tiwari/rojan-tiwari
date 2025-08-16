@@ -19,25 +19,26 @@ Currently, I’m contributing at **[Cotiviti (Nepal)](https://www.cotiviti.com.n
 
 ## 🌟 Featured Projects
 
-### **✨ ChatWave – Real-Time Messaging App**
+### ** ChatWave – Real-Time Messaging App**
 A polished, real-time messaging platform built with **Angular** and **Spring Boot** using WebSocket + STOMP.  
 - Role-based authentication and authorization  
 - Typing indicators, online/offline status  
 - Clean, responsive UI with Angular Material  
 - Fully functional private and group chats  
-👉 [Explore ChatWave](https://github.com/rojan-tiwari/chat-application)
+👉 [Explore ChatWave](https://github.com/rojan-tiwari/ChatWave)
 
 ---
 
-### **🧪 TestCaseAI – AI-Powered Test Case Generator**
+### ** TestGeneAI – AI-Powered Test Case Generator**
 A Python-based AI backend that generates test cases automatically from requirements, paired with a modern frontend using HTML, CSS, and JavaScript.  
 - Leverages **Mistral AI** for intelligent test case generation  
 - Supports functional, unit, and integration test case creation  
-- Easy-to-use interface for developers and QA engineers  
+- Easy-to-use interface for developers and QA engineers
+- 👉 [Explore TestGeneAI](https://github.com/rojan-tiwari/TestGeneAI)
 
 ---
 
-### **🏥 Advanced Hospital Management System**
+### ** Advanced Hospital Management System**
 A comprehensive hospital system currently being migrated from Spring Boot to **Grails**.  
 - Manages appointments, doctors, patients, inventory, and reports  
 - Role-based dashboards for Admin, Doctor, Nurse, and Receptionist  
@@ -45,7 +46,7 @@ A comprehensive hospital system currently being migrated from Spring Boot to **G
 
 ---
 
-### **💸 XUNO – Cross-Border Fintech Platform**
+### ** XUNO – Cross-Border Fintech Platform**
 Worked on a cross-border remittance platform enabling seamless money transfers between the USA and Nepal.  
 - Implemented KYC verification, wallet management, and transaction tracking  
 - Integrated third-party payment APIs securely and compliantly  
@@ -53,7 +54,7 @@ Worked on a cross-border remittance platform enabling seamless money transfers b
 
 ---
 
-## 🚀 What I Offer
+##  What I Offer
 I focus on delivering **end-to-end features** with maintainable, testable, and scalable code, ensuring collaboration with cross-functional teams in agile environments. Whether as a freelancer or a core team member, my goal is to **turn complex requirements into polished, production-ready applications**.  
 
 ---
