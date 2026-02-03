@@ -74,7 +74,8 @@ A comprehensive hospital system currently being migrated from Spring Boot to **G
 Worked on a cross-border remittance platform enabling seamless money transfers between the USA and Nepal.  
 - Implemented KYC verification, wallet management, and transaction tracking  
 - Integrated third-party payment APIs securely and compliantly  
-- Built responsive Angular interfaces for both agents and customers  
+- Built responsive Angular interfaces for both agents and customers
+- [Explore](https://xuno.co)
 
 ---
 
