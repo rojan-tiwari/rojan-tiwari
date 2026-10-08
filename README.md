@@ -87,7 +87,7 @@ I focus on delivering **end-to-end features** with maintainable, testable, and s
 ## 📬 Let’s Connect
 - ✉️ Email: [coderojan001@gmail.com](mailto:coderojan001@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/rojantiwari](https://www.linkedin.com/in/rojantiwari/)  
-- 🌐 Portfolio: [rojantiwari-portfolio](https://rojantiwari.netlify.app)  
+- 🌐 Portfolio: [rojantiwari-portfolio](https://rojantiwari.dev)  
 
 ---
 
